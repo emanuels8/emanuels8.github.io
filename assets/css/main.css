@@ -2800,7 +2800,7 @@ input, select, textarea {
 						-ms-transition: none;
 						transition: none;
 						border: 0;
-						color: #ffffff !important;
+						color: #d2dfe6 !important;
 						display: block;
 						padding: 0.85em 0;
 						text-decoration: none;
@@ -2818,14 +2818,14 @@ input, select, textarea {
 /* Wrapper */
 
 	#wrapper {
-		background: #fff;
+		background: #d2dfe6;
 		padding-right: 23em;
 	}
 
 /* Main */
 
 	#main > section {
-		border-top: solid 6px #f4f4f4;
+		border-top: solid 6px #d2dfe6;
 	}
 
 		#main > section > .container {
@@ -2839,7 +2839,7 @@ input, select, textarea {
 /* Footer */
 
 	#footer {
-		background: #fafafa;
+		background: #d2dfe6;
 		border-top: 0;
 		color: #c0c0c0;
 		overflow: hidden;
@@ -2853,7 +2853,7 @@ input, select, textarea {
 		}
 
 			#footer .copyright li {
-				border-left: solid 1px #d4d4d4;
+				border-left: solid 1px #777;
 				display: inline-block;
 				font-size: 0.8em;
 				margin-left: 1em;
